@@ -1,0 +1,16 @@
+{
+  "shops": [
+    {
+      "name": "Government Agro Service Center - Mysuru",
+      "latitude": 12.3001,
+      "longitude": 76.6400,
+      "services": ["Seeds", "Fertilizers", "Pesticides", "Soil Testing"]
+    },
+    {
+      "name": "Karnataka Agro Industries Corp",
+      "latitude": 12.2850,
+      "longitude": 76.6550,
+      "services": ["Seeds", "Farm Equipment", "Subsidies"]
+    }
+  ]
+}

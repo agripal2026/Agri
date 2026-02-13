@@ -1,0 +1,11 @@
+{
+  "shops": [
+    {
+      "name": "Green Grow Organic Store",
+      "latitude": 12.29,
+      "longitude": 76.63,
+      "services": ["Organic Fertilizers", "Bio Pesticides"]
+    }
+  ]
+}
+

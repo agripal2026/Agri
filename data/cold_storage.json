@@ -1,0 +1,20 @@
+{
+  "cold_storage": [
+    {
+      "name": "Mysuru Cold Storage Ltd",
+      "latitude": 12.3200,
+      "longitude": 76.6100,
+      "capacity": "5000 MT",
+      "storage_types": ["Vegetables", "Fruits", "Dairy"],
+      "contact": "+91-821-2345678"
+    },
+    {
+      "name": "Karnataka Agro Cold Chain",
+      "latitude": 12.2700,
+      "longitude": 76.6700,
+      "capacity": "3000 MT",
+      "storage_types": ["Fruits", "Flowers"],
+      "contact": "+91-821-8765432"
+    }
+  ]
+}

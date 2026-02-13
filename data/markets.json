@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Devaraja Market",
+    "latitude": 12.3052,
+    "longitude": 76.6553,
+    "type": "Wholesale Market",
+    "facilities": ["Storage", "Transport", "Grading"]
+  },
+  {
+    "name": "APMC Yard Mysuru",
+    "latitude": 12.2800,
+    "longitude": 76.6200,
+    "type": "Agricultural Market",
+    "facilities": ["Auction", "Weighing", "Banking"]
+  }
+]
