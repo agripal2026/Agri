@@ -1,0 +1,10 @@
+{
+  "disease": "Tomato_Early_blight",
+  "confidence": 89.42834138870239,
+  "severity": "Low",
+  "plant_type": "Tomato",
+  "timestamp": "2026-02-13 16:09:18.030025",
+  "total_leaves_analyzed": 5,
+  "multiple_diseases": true,
+  "unique_disease_count": 3
+}
